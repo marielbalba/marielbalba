@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariel Balba</h1>
-<h3 align="center">QA Analyst with a strong foundation in functional and non-functional testing, defect tracking, and Agile methodologies.</h3>
+<h3 align="center">QA Analyst with a strong foundation in testing, defect tracking, documentation and Agile methodologies.</h3>
 
 🎨 With prior UI/UX design experience, I bring a user‑centric perspective to QA, bridging functionality with usability to deliver seamless digital experiences.
 
